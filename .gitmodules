@@ -8,11 +8,6 @@
 	url = https://github.com/smwoodman/cruzplot
 	shallow = true
 	registered = true
-[submodule "eSDM"]
-	path = eSDM
-	url = https://github.com/smwoodman/esdm
-	shallow = true
-	registered = true
 [submodule "swfscAirDAS"]
 	path = swfscAirDAS
 	url = https://github.com/smwoodman/swfscairdas
@@ -21,5 +16,10 @@
 [submodule "swfscDAS"]
 	path = swfscDAS
 	url = https://github.com/smwoodman/swfscdas
+	shallow = true
+	registered = true
+[submodule "eSDM"]
+	path = eSDM
+	url = https://github.com/smwoodman/esdm
 	shallow = true
 	registered = true
