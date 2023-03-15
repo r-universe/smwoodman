@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
+    "package": "eSDM",
+    "oncran": true
+  },
+  {
     "package": "swfscAirDAS",
     "oncran": true
   },
   {
     "package": "swfscDAS",
-    "oncran": true
-  },
-  {
-    "package": "eSDM",
     "oncran": true
   }
 ]
