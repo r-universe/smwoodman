@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/smwoodman/cruzplot
-	shallow = true
-	registered = true
 [submodule "eSDM"]
 	path = eSDM
 	url = https://github.com/smwoodman/esdm
-	shallow = true
-	registered = true
 [submodule "swfscAirDAS"]
 	path = swfscAirDAS
 	url = https://github.com/smwoodman/swfscairdas
-	shallow = true
-	registered = true
 [submodule "swfscDAS"]
 	path = swfscDAS
 	url = https://github.com/smwoodman/swfscdas
-	shallow = true
-	registered = true
